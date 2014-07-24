@@ -1,0 +1,39 @@
+.b-list a {
+    display: block;
+    color: #555;
+    background-color: #eee;
+    padding: 8px 30px;
+    margin: 20px 0;
+    text-decoration: none;
+}
+
+.b-list a:hover {
+    color: #fff;
+    background: #aaa;
+}
+
+.b-list a:active {
+    background-color: #fff;
+    color: #ccc;
+}
+
+.b-footer {
+    margin-top: 100px;
+    margin-right: 150px;
+}
+
+.v-show {
+    height: 280px;
+}
+
+.cover {
+    height: 100%;
+    background-size: cover;
+}
+
+.info {
+    height: 100%;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: normal;
+}
